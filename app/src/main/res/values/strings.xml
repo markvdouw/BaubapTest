@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaubapChallenge</string>
+    <string name="title_activity_login">TestActivity</string>
+    <string name="login_title">"Log in into your account!"</string>
+    <string name="login_view_username">username</string>
+    <string name="login_view_password">password</string>
+    <string name="login_btn">Login</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="login_error">Error</string>
+    <string name="issues_with_credentials">Issues with credentials</string>
+</resources>
